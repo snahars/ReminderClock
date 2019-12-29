@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reminder Clock</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="dateTimeSelect">Choose Date And Time </string>
+    <string name="eventTitle">Title </string>
+    <string name="eventDescription">Write Note</string>
+    <string name="intervalTime">Choose Interval Time</string>
+    <string name="setAlarm">Set Alarm</string>
+    <string name="addNote">Add Note</string>
+    <string name="selectRingtone">Select Ringtone</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">gender</string>
+    <string name="contactNo">Contact No</string>
+    <string name="noteList">Note List</string>
+
+
+</resources>
